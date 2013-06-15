@@ -41,14 +41,14 @@
     <h2>Register an account</h2>
         <form action="register.php" method="post">
             <fieldset>
-                <legend>Register an account</legend>
+                <legend>Register an account with GIT,Webmatrix and GITHUB then Azure</legend>
                 <ol>
                     <li>
-                        <label for="username">Username:</label> 
+                        <label for="username">Username of AZURE:</label> 
                         <input type="text" name="username" value="" id="username" />
                     </li>
                     <li>
-                        <label for="password">Password:</label>
+                        <label for="password">Password of AZURE:</label>
                         <input type="password" name="password" value="" id="password" />
                     </li>
                 </ol>
