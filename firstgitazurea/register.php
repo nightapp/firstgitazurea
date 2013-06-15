@@ -38,10 +38,10 @@
     }
 ?>
 <div id="main">
-    <h2>Register an account</h2>
+    <h2>Register an account with GIT,Webmatrix and GITHUB then Azure check updates</h2>
         <form action="register.php" method="post">
             <fieldset>
-                <legend>Register an account with GIT,Webmatrix and GITHUB then Azure</legend>
+                <legend>Register an account </legend>
                 <ol>
                     <li>
                         <label for="username">Username of AZURE:</label> 
